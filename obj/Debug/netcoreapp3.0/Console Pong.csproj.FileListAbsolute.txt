@@ -1,0 +1,11 @@
+C:\VS19\Console Pong\bin\Debug\netcoreapp3.0\Console Pong.exe
+C:\VS19\Console Pong\bin\Debug\netcoreapp3.0\Console Pong.deps.json
+C:\VS19\Console Pong\bin\Debug\netcoreapp3.0\Console Pong.runtimeconfig.json
+C:\VS19\Console Pong\bin\Debug\netcoreapp3.0\Console Pong.runtimeconfig.dev.json
+C:\VS19\Console Pong\bin\Debug\netcoreapp3.0\Console Pong.dll
+C:\VS19\Console Pong\bin\Debug\netcoreapp3.0\Console Pong.pdb
+C:\VS19\Console Pong\obj\Debug\netcoreapp3.0\Console Pong.csprojAssemblyReference.cache
+C:\VS19\Console Pong\obj\Debug\netcoreapp3.0\Console Pong.AssemblyInfoInputs.cache
+C:\VS19\Console Pong\obj\Debug\netcoreapp3.0\Console Pong.AssemblyInfo.cs
+C:\VS19\Console Pong\obj\Debug\netcoreapp3.0\Console Pong.dll
+C:\VS19\Console Pong\obj\Debug\netcoreapp3.0\Console Pong.pdb
